@@ -1,4 +1,4 @@
-### Hi there 👋
+### Experienced Developer with a demonstrated history of working in the computer software industry. Skilled in Software, HTML, CSS, JavaScript, TypeScript, Angular, Java, SpringBoot, MySQL. Strong engineering professional with a Bachelor's degree focused in Computer Software Engineering from Metropolitan University.  👋
 
 <!--
 **mislavto/mislavto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
